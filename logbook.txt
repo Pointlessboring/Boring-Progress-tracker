@@ -1,0 +1,7 @@
+2021-10-12
+==========
+- Created new repository to monitor/track progress/tools
+- started this log to see daily progress
+
+
+
