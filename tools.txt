@@ -5,7 +5,6 @@
 - Set-up VSCode for DeV
 - Nano as a quick text editor
 - GitHub as Code repository
-- IT Books I am currently reading: Oreilly/Learning Web Design, Eloquent Javascript, Python Crash course.
 - The Odin Project/freecode Camp as guideline/framework
 - Codewars.com to practice katas, learn new languages.
 
