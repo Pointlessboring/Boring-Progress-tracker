@@ -8,4 +8,4 @@
 - The Odin Project/freecode Camp as guideline/framework
 - Codewars.com to practice katas, learn new languages.
 
-
+- http://loremipsum.io  ; Generates texts for mockups

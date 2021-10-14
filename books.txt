@@ -3,4 +3,4 @@ DATE: 2021-10-21
 - Oreilly: Learning Web Design
 - Eloquent Javascript
 - Python Crash Course
-- Unix for the impatient
+- Unix for the impatient (the original paper version from 20 years ago)

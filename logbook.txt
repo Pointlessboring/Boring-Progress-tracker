@@ -1,7 +1,15 @@
-2021-10-12
-==========
+DATE: 2021-10-12
+================
 - Created new repository to monitor/track progress/tools
-- started this log to see daily progress
+- Started this log to see daily progress
+- Read chapters 1-5 of Learning web design
+- Discovered 
 
+DATE: 2021-10-13
+================
+- Practiced basic GIT push
+- Made some mods online than learned how to d/l locally.
+- Rename some GITs 
+- Created and published pointlessboring.com
 
 
