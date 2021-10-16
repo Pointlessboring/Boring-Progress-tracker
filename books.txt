@@ -1,4 +1,9 @@
-DATE: 2021-10-21
+DATE:21-10-14
+=============
+- A Mind for numbers (recommended by TOP)
+
+
+DATE:21-10-12
 ================
 - Oreilly: Learning Web Design
 - Eloquent Javascript
