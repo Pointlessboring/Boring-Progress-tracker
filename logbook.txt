@@ -1,3 +1,8 @@
+DATE: 2021-10-18
+================
+- Finished another TOP lesson
+- Modified practice website
+
 DATE: 2021-10-17
 ================
 - Updated progress
