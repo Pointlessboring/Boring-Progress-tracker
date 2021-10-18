@@ -2,6 +2,7 @@ DATE: 2021-10-18
 ================
 - Finished another TOP lesson
 - Modified practice website
+- Rename this repository. Practiced GIT clone, etc.
 
 DATE: 2021-10-17
 ================
