@@ -1,3 +1,14 @@
+DATE: 2021-10-17
+================
+- Updated progress
+- Read Javascript
+
+DATE: 2021-10-16
+================
+- Added ftp-simple to VSCode
+- Added SFTP to VSCode
+
+
 DATE: 2021-10-15
 ================
 - Updated pointlessboring.com
