@@ -1,3 +1,7 @@
+DATE: 2021-10-19
+================
+- Working pon Odin recipe
+
 DATE: 2021-10-18
 ================
 - Finished another TOP lesson
