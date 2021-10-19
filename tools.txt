@@ -1,4 +1,4 @@
-2021-10-12
+2021-10-18
 ==========
 - OS: Main is MacOS. 
   Programming in Linux/Ubuntu in a Parallels windows
@@ -9,3 +9,5 @@
 - Codewars.com to practice katas, learn new languages.
 
 - http://loremipsum.io  ; Generates texts for mockups
+- http://unsplash.com	; Free stock photography
+- http://unsplash.it    ; Generates random images from unsplash.com 
