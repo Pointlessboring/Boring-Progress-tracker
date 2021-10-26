@@ -1,3 +1,9 @@
+DATE: 2021-10-26
+================
+- Set-up Github on MacOS
+- Terminal/Nano text editor behavior is different.
+  Ubuntu is closer to what I was used to in Unix.
+
 DATE: 2021-10-25
 ================
 - Back to the grind ;)
