@@ -1,7 +1,11 @@
+DATE: 2021-10-25
+================
+- Back to the grind ;)
+- Testing Chrome Devtools 
+
 DATE: 2021-10-24
 ================
 - Read Chrome Devtools Overview
-
 
 DATE: 2021-10-22
 ================
