@@ -1,3 +1,8 @@
+DATE: 2021-10-2
+================
+- Getting familiar with Chrome Devtools
+- TOP: Box model + CSS exercises
+
 DATE: 2021-10-27
 ================
 - Learning Box Model
