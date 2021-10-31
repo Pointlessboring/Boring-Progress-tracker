@@ -1,5 +1,10 @@
-DATE: 2021-10-2
+DATE: 2021-10-31
 ================
+- Read Oreilly book.
+- Some dabbled with basic exercices
+
+DATE: 2021-10-29
+=================
 - Getting familiar with Chrome Devtools
 - TOP: Box model + CSS exercises
 
