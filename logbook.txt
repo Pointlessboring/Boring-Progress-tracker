@@ -1,7 +1,13 @@
+DATE: 2021-11-01
+================
+- Minor tweaks
+- Chrome Devtools
+
+
 DATE: 2021-10-31
 ================
 - Read Oreilly book.
-- Some dabbled with basic exercices
+- Dabbled with basic exercices
 
 DATE: 2021-10-29
 =================
