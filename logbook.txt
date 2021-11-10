@@ -1,3 +1,9 @@
+DATE: 2021-11-10
+================
+- Spent last week toying with pointlessboring.com
+- CSS Box model and Chrome Devtools
+- Practice will make perfect (hopefully)
+
 DATE: 2021-11-01
 ================
 - Minor tweaks
