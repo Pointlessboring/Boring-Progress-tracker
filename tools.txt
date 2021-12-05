@@ -8,6 +8,7 @@
 - The Odin Project/freecode Camp as guideline/framework
 - Codewars.com to practice katas, learn new languages.
 
-- http://loremipsum.io  ; Generates texts for mockups
-- http://unsplash.com	; Free stock photography
-- http://unsplash.it    ; Generates random images from unsplash.com 
+- http://pointlessboring.com 	; My Sandbox
+- http://loremipsum.io  	; Generates texts for mockups
+- http://unsplash.com		; Free stock photography
+- http://unsplash.it    	; Generates random images from unsplash.com 
