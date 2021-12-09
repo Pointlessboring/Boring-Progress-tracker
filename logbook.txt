@@ -1,3 +1,13 @@
+DATE: 2021-12-09
+================
+- Just do it!
+- TOP: flex exercices
+
+
+DATE: 2021-12-05
+================
+- TOP: flex
+
 DATE: 2021-12-05
 ================
 - Back to the grind

@@ -8,7 +8,8 @@
 - The Odin Project/freecode Camp as guideline/framework
 - Codewars.com to practice katas, learn new languages.
 
-- http://pointlessboring.com 	; My Sandbox
+- https://codepen.io/		; online coding sandbox
+- http://pointlessboring.com 	; My Sandbox website
 - http://loremipsum.io  	; Generates texts for mockups
 - http://unsplash.com		; Free stock photography
 - http://unsplash.it    	; Generates random images from unsplash.com 
