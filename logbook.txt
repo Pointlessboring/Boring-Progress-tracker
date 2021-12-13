@@ -1,3 +1,9 @@
+DATE: 2021-12-13
+================
+- Just do it! Baby Steps!
+- More Git functionality
+- TOP: Flex exercices
+
 DATE: 2021-12-12
 ================
 - Baby Steps!
