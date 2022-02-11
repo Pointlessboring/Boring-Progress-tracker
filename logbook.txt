@@ -1,4 +1,8 @@
-DATE: 2022-02-08
+DATE: 2022-02-11
+================
+- Codewars: 1st Javascript Kata
+
+DATE: 2022-02-09
 ================
 - Keep at it!
 - Coursera: Completed Learning how to learn. Excellent course!!
