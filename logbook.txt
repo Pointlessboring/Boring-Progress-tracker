@@ -1,6 +1,7 @@
 DATE: 2022-02-11
 ================
 - Codewars: 1st Javascript Kata
+- Started TOP landing page project
 
 DATE: 2022-02-09
 ================
