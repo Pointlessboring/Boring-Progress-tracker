@@ -1,3 +1,8 @@
+DATE: 2022-02-12
+================
+- Codewars: some more katas...
+- TOP landing page project
+
 DATE: 2022-02-11
 ================
 - Codewars: 1st Javascript Kata
