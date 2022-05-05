@@ -1,3 +1,10 @@
+DATE: 2022-05-05
+================
+- Started Python Crash course
+- Set-up Python Repo
+- Codewars: some python katas...
+
+
 DATE: 2022-02-12
 ================
 - Codewars: some more katas...
