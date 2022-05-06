@@ -1,6 +1,7 @@
 DATE: 2022-05-05
 ================
 - Started Python Crash course
+  - Completed Chapter 2
 - Set-up Python Repo
 - Codewars: some python katas...
 
