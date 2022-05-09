@@ -1,6 +1,15 @@
+DATE: 2022-05-09
+================
+- Python Crash course: completed chapter 6
+
+DATE: 2022-05-08
+================
+- Python Crash course: completed chapter 5
+
 DATE: 2022-05-07
 ================
 - Python Crash course: completed chapter 4
+- Spent several hours in bubble.io
 
 DATE: 2022-05-06
 ================
