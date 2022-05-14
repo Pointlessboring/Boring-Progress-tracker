@@ -1,3 +1,11 @@
+DATE: 2022-05-14
+================
+- Python Crash course: Continued Chapter 9
+
+DATE: 2022-05-13
+================
+- Python Crash course: Continued Chapter 9
+
 DATE: 2022-05-12
 ================
 - Python Crash course: Chapter 9
