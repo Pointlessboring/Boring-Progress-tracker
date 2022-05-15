@@ -1,6 +1,13 @@
+DATE: 2022-05-15
+================
+- Python Crash course: Chapter 10
+- Moved environment to cloud. Set-up symbolic links
+- Set-up Pythonista for mobile coding.
+
 DATE: 2022-05-14
 ================
-- Python Crash course: Continued Chapter 9
+- Python Crash course: Completed Chapter 9
+- Python Crash course: Chapter 10
 
 DATE: 2022-05-13
 ================
