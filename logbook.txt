@@ -1,5 +1,6 @@
 DATE: 2022-05-15
 ================
+- Python Crash course: Chapter 12
 - Python Crash course: Chapter 11
 - Started Ch11 on Pythonista.
 
