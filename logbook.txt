@@ -1,3 +1,7 @@
+DATE: 2022-05-19
+================
+- Python Crash Course: Chap 15
+
 DATE: 2022-05-18
 ================
 - Python Crash Course: Chap 12-14 recap
