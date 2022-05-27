@@ -1,3 +1,7 @@
+DATE: 2022-05-27
+================
+- Python Crash Course: Chap 17
+
 DATE: 2022-05-26
 ================
 - Python Crash Course: Chap 17
