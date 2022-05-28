@@ -10,12 +10,12 @@ DATE: 2022-05-27
 
 DATE: 2022-05-26
 ================
-- Python Crash Course: Chap 17
+- Python Crash Course: Chap 17: APIs
 - Python Crash Course: Chap 16 Continued
 
 DATE: 2022-05-25
 ================
-- Python Crash Course: Chap 16
+- Python Crash Course: Chap 16: file formats: CSV, JSON 
 
 DATE: 2022-05-23
 ================
@@ -31,7 +31,7 @@ DATE: 2022-05-20
 
 DATE: 2022-05-19
 ================
-- Python Crash Course: Chap 15
+- Python Crash Course: Chap 15: Matplotlib, Plotly
 
 DATE: 2022-05-18
 ================
