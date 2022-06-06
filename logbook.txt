@@ -1,3 +1,13 @@
+DATE: 2022-06-06
+================
+- Python Crash Course: Chap 19
+- 
+
+DATE: 2022-06-05
+================
+- Pythonista: Set-up, iCloud workflow
+- Great Book of Small Python Project: Project #1
+
 DATE: 2022-06-03
 ================
 - Python Crash Course: Chap 19
