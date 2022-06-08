@@ -1,7 +1,11 @@
+DATE: 2022-06-08
+================
+- Great Book of Small Python Project: Project #4
+
 DATE: 2022-06-07
 ================
 - Python library: Installed/dabbled with Python/Pandas
-- Great Book of Small Python Project: Project #2
+- Great Book of Small Python Project: Project #2, 3, 4
 
 
 DATE: 2022-06-06
