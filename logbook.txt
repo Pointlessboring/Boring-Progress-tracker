@@ -1,6 +1,14 @@
-DATE: 2022-06-08
+DATE: 2022-06-13
 ================
-- Great Book of Small Python Project: Project #7
+- Great Book of Small Python Project: Project #13
+
+DATE: 2022-06-10
+================
+- Great Book of Small Python Project: Project #10, 11, 12    
+
+DATE: 2022-06-09
+================
+- Great Book of Small Python Project: Project #7, 8, 9
 
 DATE: 2022-06-08
 ================
