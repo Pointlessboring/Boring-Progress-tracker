@@ -1,6 +1,10 @@
+DATE: 2022-06-14
+================
+- Great Book of Small Python Project: Project #14
+
 DATE: 2022-06-13
 ================
-- Great Book of Small Python Project: Project #13
+- Great Book of Small Python Project: Project #13 (including the matplotlib version)
 
 DATE: 2022-06-10
 ================
