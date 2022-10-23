@@ -1,3 +1,11 @@
+ATE: 2022-10-22
+================
+- Set-up Git repository on new system
+
+DATE: 2022-10-21
+================
+- Set-up VSCode, environment, etc. in new reformatted MAC
+
 DATE: 2022-06-14
 ================
 - Great Book of Small Python Project: Project #14
