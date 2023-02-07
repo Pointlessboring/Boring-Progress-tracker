@@ -1,6 +1,6 @@
 DATE:22-06-01
 =============
-- Started on Great Book of Small Python Projects
+- Started on Big Book of Small Python Projects
 
 
 DATE:22-05-05

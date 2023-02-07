@@ -1,3 +1,7 @@
+DATE: 2023-02-06
+================
+- Back to the Grind. VSCode, BBSP#1
+
 DATE: 2022-11-30
 ================
 - Back to the Grind. Tools, Env, Set-up
