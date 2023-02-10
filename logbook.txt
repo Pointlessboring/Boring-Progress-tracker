@@ -1,10 +1,10 @@
 DATE: 2023-02-08
 ================
-- BBSP#2
+- BBSP#3
 
 DATE: 2023-02-07
 ================
-- VSCode, Python Basics, BBSP#1
+- VSCode, Python Basics, BBSP#2
 
 DATE: 2023-02-06
 ================
