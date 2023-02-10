@@ -1,3 +1,11 @@
+DATE: 2023-02-08
+================
+- BBSP#2
+
+DATE: 2023-02-07
+================
+- VSCode, Python Basics, BBSP#1
+
 DATE: 2023-02-06
 ================
 - Back to the Grind. VSCode, BBSP#1
