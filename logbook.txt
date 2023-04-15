@@ -1,6 +1,7 @@
 DATE: 2023-04-15
 ================
 - More openpyxl
+- Started on SQLite
 - iOS Pythonista
 
 DATE: 2023-04-10
