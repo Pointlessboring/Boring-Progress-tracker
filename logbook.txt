@@ -1,3 +1,12 @@
+DATE: 2023-04-18
+================
+- More SQLite
+- Python date manipulation quirks
+
+DATE: 2023-04-17
+================
+- More SQLite
+
 DATE: 2023-04-16
 ================
 - More SQLite
