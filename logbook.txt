@@ -1,3 +1,7 @@
+ATE: 2023-04-19
+================
+- More SQLite/openpyxl
+
 DATE: 2023-04-18
 ================
 - More SQLite
