@@ -1,6 +1,12 @@
+
+DATE: 2023-04-21
+================
+- More SQLite/openpyxl/csvx
+
 DATE: 2023-04-20
 ================
 - More SQLite/openpyxl
+- csv file mgmt
 
 DATE: 2023-04-19
 ================
