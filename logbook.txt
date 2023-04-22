@@ -1,7 +1,10 @@
+DATE: 2023-04-22
+================
+- More SQLite/openpyxl/csvx
 
 DATE: 2023-04-21
 ================
-- More SQLite/openpyxl/csvx
+- More SQLite/openpyxl/csv
 
 DATE: 2023-04-20
 ================
