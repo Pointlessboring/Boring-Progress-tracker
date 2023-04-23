@@ -1,6 +1,10 @@
 DATE: 2023-04-22
 ================
-- More SQLite/openpyxl/csvx
+- Python Cookbook
+
+DATE: 2023-04-22
+================
+- More SQLite/openpyxl/csv
 
 DATE: 2023-04-21
 ================
