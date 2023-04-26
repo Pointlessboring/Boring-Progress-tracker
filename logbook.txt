@@ -1,3 +1,7 @@
+DATE: 2023-04-26
+================
+- Python: openpyxl, sqlite3
+
 DATE: 2023-04-25
 ================
 - Python Cookbook
