@@ -1,4 +1,14 @@
-DATE: 2023-04-22
+DATE: 2023-04-25
+================
+- Python Cookbook
+- Minor tweaks
+
+DATE: 2023-04-24
+================
+- Python Dabbling
+- Datasets prep
+
+DATE: 2023-04-23
 ================
 - Python Cookbook
 
