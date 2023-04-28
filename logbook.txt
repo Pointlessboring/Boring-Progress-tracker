@@ -1,3 +1,8 @@
+DATE: 2023-04-27
+================
+- Python: openpyxl, sqlite3
+- toyed with multi table SQL queries 
+
 DATE: 2023-04-26
 ================
 - Python: openpyxl, sqlite3
