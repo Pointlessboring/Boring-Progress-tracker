@@ -2,6 +2,7 @@ DATE: 2023-04-27
 ================
 - Python: openpyxl, sqlite3
 - toyed with multi table SQL queries 
+- updated ~/.ssh/config to resolve some github issues
 
 DATE: 2023-04-26
 ================
