@@ -1,3 +1,8 @@
+DATE:23-04-29
+=============
+- Python Cookbook
+- Using SQLite
+
 DATE:22-06-01
 =============
 - Started on Big Book of Small Python Projects
