@@ -1,3 +1,9 @@
+
+DATE: 2023-04-30
+================
+- More SQL
+- Codewars.com: SQL training
+
 DATE: 2023-04-29
 ================
 - More SQL
