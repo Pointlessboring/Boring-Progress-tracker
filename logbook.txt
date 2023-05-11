@@ -1,3 +1,11 @@
+DATE: 2023-05-11 
+================
+- Codewars.com: SQL training
+- Installed PostgreSQL locally. 
+
+DATE: 2023-05-10
+================
+- Codewars.com: SQL training
 
 DATE: 2023-05-09
 ================
