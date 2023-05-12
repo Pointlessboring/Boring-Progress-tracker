@@ -2,6 +2,7 @@ DATE: 2023-05-11
 ================
 - Codewars.com: SQL training
 - Installed PostgreSQL locally. 
+- Dabbled with RegEx
 
 DATE: 2023-05-10
 ================
