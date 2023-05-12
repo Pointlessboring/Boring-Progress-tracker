@@ -1,3 +1,8 @@
+DATE: 2023-05-12
+================
+- Codewars.com: SQL training
+- More RegEx. => This is coming back to me slowly.
+
 DATE: 2023-05-11 
 ================
 - Codewars.com: SQL training
