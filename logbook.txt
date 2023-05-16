@@ -1,3 +1,8 @@
+DATE: 2023-05-16
+================
+- Codewars.com: SQL training
+- PostgreSQL: Practical SQL training
+
 DATE: 2023-05-15
 ================
 - Codewars.com: SQL training
