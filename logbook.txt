@@ -1,3 +1,13 @@
+DATE: 2023-05-20
+================
+- https://pgexercises.com: SQL training
+- PostgreSQL: Practical SQL training
+
+DATE: 2023-05-19
+================
+- Codewars.com: SQL training
+- PostgreSQL: Practical SQL training
+
 DATE: 2023-05-18
 ================
 - Codewars.com: SQL training
