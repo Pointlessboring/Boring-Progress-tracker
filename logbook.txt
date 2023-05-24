@@ -1,6 +1,11 @@
+DATE: 2023-05-23
+================
+- Book: Learning SQL (100%)
+
 DATE: 2023-05-22
 ================
 - SQL Cookbook
+- Installed MySQL
 
 DATE: 2023-05-21
 ================
