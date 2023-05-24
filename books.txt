@@ -1,3 +1,8 @@
+DATE:23-05-22
+=============
+- Learning SQL
+- SQL performance explained
+
 DATE:23-05-20
 =============
 - SQL Cookbook
@@ -19,7 +24,6 @@ DATE:22-06-01
 
 DATE:22-05-05
 =============
-- Bought No Starch Press: Python series of books via Humble Bundle
 - Begun Python Crash Course
 
 DATE:21-10-14
@@ -29,7 +33,7 @@ DATE:21-10-14
 
 DATE:21-10-12
 ================
-- Oreilly: Learning Web Design
+- Oreilly: Learning Web Design 
 - Eloquent Javascript
 - Python Crash Course
 - Unix for the impatient (the original paper version from 20 years ago)
