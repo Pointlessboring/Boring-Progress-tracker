@@ -1,7 +1,11 @@
-DATE: 2023-08-29
+DATE: 2023-08-31
+================
+- FreeCodeCamp: HTML
+
+DATE: 2023-08-30
 ================
 - Python Chess Game: Clean-up
-- FreeCodeCamp
+- FreeCodeCamp: HMTL
 
 DATE: 2023-08-29
 ================
