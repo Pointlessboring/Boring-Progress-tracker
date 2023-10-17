@@ -1,4 +1,10 @@
-DATE: 2023-10-15
+DATE: 2023-10-17
+================
+- FreeCodeCamp: HTML
+- SQL Cookbook
+- Codewars.com ; Ranked up to 3kyu today!
+
+DATE: 2023-10-16
 ================
 - FreeCodeCamp: HTML
 - SQL Cookbook
