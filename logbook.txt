@@ -1,9 +1,15 @@
-DATE: 2024-09-13
+
+DATE: 2024-09-11 
+================
+- Geeksforgeeks
+- DSA: Heaps
+
+DATE: 2024-09-10
 ================
 - Geeksforgeeks  
 - Graph theory & Algo
 
-DATE: 2024-09-12 
+DATE: 2024-09-09 
 ================
 - Geeksforgeeks
 - DSA
